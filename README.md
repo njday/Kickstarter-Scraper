@@ -1,2 +1,3 @@
 # Kickstarter-Scraper
-Takes a csv list of kickstarter URLs and scrapes the relevant information
+
+Web scraper which takes a csv list of Kickstarter project data (incl. URLs). For each project the scraped content (description, updates, FAQs, video) is appended to the same row.
